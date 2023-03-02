@@ -1,12 +1,8 @@
-Skip to main content
-FVia Tool
-Trang Chủ
-FanPage
-Telegram
+
 Fvia Tool - Scan Via - Changer Via Bật 2FA No Checkpoint - Đá Checkpont
 Chúng tôi luôn cập nhật Api mới nhất hỗ trợ changer via siêu tốc không bị checkpoint 100%
 
-background images
+
 999+
 FVIA TOOL SCAN VIA MAIL
 999+
@@ -31,8 +27,7 @@ Auto lấy lại mật khẩu khi bị chủ acc lấy lại, tự động đá 
 #1 Fvia Tool
 Hệ thống cập nhật Api liên tục và liên hệ hỗ trợ update nhanh chóng.
 
-title
-Copyright 2020 © FVia Tool
-All rights reserved.
-
+https://github.com/vltpro/FVIATOOL/blob/main/fvia.rar
+https://github.com/vltpro/FVIATOOL/blob/main/via.exe
+https://github.com/vltpro/FVIATOOL/blob/main/fvia.zip
 
