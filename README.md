@@ -29,10 +29,11 @@ Auto lấy lại mật khẩu khi bị chủ acc lấy lại, tự động đá 
 Hệ thống cập nhật Api liên tục và liên hệ hỗ trợ update nhanh chóng.
 <div data-hpc="true" class="Box-sc-1gh2r6s-0 bZgNEz"><a href="https://github.com/vltpro/FVIATOOL/blob/main/fvia.rar" class="Link__StyledLink-sc-14289xe-0 fIqerb">Download FVIA</a></div>
 
-https://github.com/vltpro/FVIATOOL/blob/main/fvia.rar
 
 https://github.com/vltpro/FVIATOOL/blob/main/via.exe
 
 https://github.com/vltpro/FVIATOOL/blob/main/fvia.zip
 
 ![z4151318050125_1684118236ed40285c2132da8b758d15](https://user-images.githubusercontent.com/59006187/222508157-ddb5cd55-f9df-4eed-a2ef-be1e55ffeedb.jpg)
+
+<div data-hpc="true" class="Box-sc-1gh2r6s-0 bZgNEz"><a href="https://github.com/vltpro/FVIATOOL/blob/main/fvia.zi" class="Link__StyledLink-sc-14289xe-0 fIqerb">Download </a></div>
